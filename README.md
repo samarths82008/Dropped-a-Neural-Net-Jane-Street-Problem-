@@ -1,6 +1,6 @@
 # I Dropped a Neural Net — Jane Street Puzzle Solution
 
-> **Puzzle:** [Jane Street — I Dropped a Neural Net](https://www.janestreet.com/puzzles/droppedaneuralnet/)  
+> **Puzzle:** [Jane Street — I Dropped a Neural Net](https://huggingface.co/spaces/jane-street/droppedaneuralnet)  
 > **Result:** ✅ Solved — MSE = 0.000000 on full 10,000-sample dataset  
 > **Runtime:** Under 3 minutes on CPU. No GPU. No gradient descent.
 
